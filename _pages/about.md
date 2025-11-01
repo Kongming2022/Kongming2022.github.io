@@ -29,4 +29,8 @@ redirect_from:
 # 🎓 学历
 - *2021.09 - 2025.06*, 上海交通大学航空航天学院，航空航天工程专业
  
+<span class='anchor' id='-rltalk'></span>
+# 宋驰的强化学习研讨室
 
+问题探讨：
+1. batch size如何影响强化学习的效率和结果

@@ -43,13 +43,16 @@ redirect_from:
 ### 机器人正向运动学
 - [运动学建模方法-DH法](https://blog.csdn.net/subtitle_/article/details/130982929)  
 - [微分运动学-雅克比矩阵](https://blog.csdn.net/Bellwen/article/details/129185312)  
-- 我发现在实际的机器人运动控制实践中，许多人会在旋转的表示和使用上产生问题，主要是因为旋转不像平动一样具有线性性，因此在计算中容易产生混乱，因此我认为有必要从旋转的定义、表示方法出发，理解旋转的概念，这在机器人位姿表示中是很重要的。
+我发现在实际的机器人运动控制实践中，许多人会在旋转的表示和使用上产生问题，主要是因为旋转不像平动一样具有线性性，因此在计算中容易产生混乱，因此我认为有必要从旋转的定义、表示方法出发，理解旋转的概念，这在机器人位姿表示中是很重要的。  
+- [基于四元数的旋转描述](https://blog.csdn.net/shenshen211/article/details/78492055)  
+- [旋转矩阵] (https://blog.csdn.net/qq_34885669/article/details/124344320)  
 
 ### 机器人逆运动学
 
 ### 机器人动力学
 
 ## 深度强化学习
+- [强化学习课程：动手学强化学习] (https://hrl.boyuai.com/)
 
 ## python编程
 - [python中列表(list)的使用](https://www.runoob.com/python/python-lists.html)

@@ -55,4 +55,6 @@ redirect_from:
 - [强化学习课程：动手学强化学习](https://hrl.boyuai.com/)
 
 ## python编程
-- [python中列表(list)的使用](https://www.runoob.com/python/python-lists.html)
+- [python中列表(list)的使用](https://www.runoob.com/python/python-lists.html)  
+
+[个人博客](./blog.md)
